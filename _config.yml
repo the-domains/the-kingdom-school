@@ -1,0 +1,28 @@
+name: The Kingdom School
+favicon: null
+layout_spectrum: 0.0172917228192091
+typography_spectrum: 0.7263496618252248
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.07500790967606008
+  lightness: 0.39481193851679564
+  saturation: 0.3711647263262421
+  rhythmicContrast: 0.029399008257314563
+purpose: []
